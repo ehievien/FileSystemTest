@@ -1,0 +1,13 @@
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.exe
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.deps.json
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.runtimeconfig.json
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.runtimeconfig.dev.json
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.dll
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.pdb
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.csprojAssemblyReference.cache
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.csproj.CoreCompileInputs.cache
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.AssemblyInfoInputs.cache
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.AssemblyInfo.cs
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.dll
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.pdb
+C:\Users\Purplepetite\source\repos\Filesystem\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.genruntimeconfig.cache
